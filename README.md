@@ -1,6 +1,6 @@
 # NextJs on your Android 🚀
 ### running nextjs server in your phone with an eruda console 😀
-![](https://hackmd.io/_uploads/Syz5CtJhn.jpg)
+![](https://telegra.ph/file/c50fbb51d052153b4834b.jpg)
 
 
 ***requirements:***
@@ -21,6 +21,7 @@ pkg install nodejs
 ```
 
 * running Nextjs
+
 open termux app then clone this repo `git clone repURL`.
 before running this reop you should be installing this package *@next/swc-android-arm-eabi* by running this command:
 ```
@@ -29,5 +30,5 @@ npm i -g @next/swc-android-arm-eabi
 after that move to root dir `cd next`
 and run `npm install && npm run dev`
 and congratulations 🎉 the nextJs server `http://localhost:3000` now running on your termux
-![](https://hackmd.io/_uploads/By1u0Fy22.jpg)
+![](https://telegra.ph/file/8b853319c50cc8186a415.jpg)
 
